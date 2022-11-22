@@ -1,4 +1,4 @@
-### oii, eu sou a Duda Fortuna!!!😁
+### oii, eu sou a dudinha!!!😁
 <div align="center">
   <a href="https://github.com/dudafortuna">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=dudafortuna&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
